@@ -26,16 +26,18 @@ Key areas to focus
 tbd
 
 Tools
-
+```
 vim
 jq
 tmux
 aliases
 yq
+```
 
 Tips
 
-short names
+```
+use / get kubernetes short names
 delete pods without waiting
 export now='--force --grace-period 0"
 k delete pod nginx $now
@@ -43,6 +45,7 @@ k delete pod nginx --now=true
 export LESS="-RLFi"
 alias l='ls -lsrth'
 :set autoindent
+```
 
 Aliases and functions
 
