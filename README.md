@@ -14,6 +14,35 @@ My CKA Notes
 * https://editor.networkpolicy.io/?id=Uvdc7jwZhZfY3LpX
 * https://gist.github.com/JamieMac96/adf9d3c9fe9aa6cd40a20047efabc9ec
 * https://www.youtube.com/watch?v=o321_1TwD8s
+* https://www.youtube.com/watch?v=9UqkWcdy140
+* https://www.youtube.com/watch?v=Gbnhyu1oGeY
+* https://www.youtube.com/watch?v=4THV5o6ntIE&t=580s
+* https://www.youtube.com/watch?v=YMxHK7FRlV0
+* https://www.youtube.com/watch?v=7wRqtBMS6E0
+* https://www.youtube.com/watch?v=8VK9NJ3pObU
+* https://www.youtube.com/watch?v=lR1-XfWeDcc
+
+Key areas to focus
+tbd
+
+Tools
+
+vim
+jq
+tmux
+aliases
+yq
+
+Tips
+
+short names
+delete pods without waiting
+export now='--force --grace-period 0"
+k delete pod nginx $now
+k delete pod nginx --now=true
+export LESS="-RLFi"
+alias l='ls -lsrth'
+:set autoindent
 
 Aliases and functions
 
