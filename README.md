@@ -14,3 +14,15 @@ My CKA Notes
 * https://editor.networkpolicy.io/?id=Uvdc7jwZhZfY3LpX
 * https://gist.github.com/JamieMac96/adf9d3c9fe9aa6cd40a20047efabc9ec
 * https://www.youtube.com/watch?v=o321_1TwD8s
+
+Aliases and functions
+
+alias k="kubectl"
+alias v="vim"
+
+function ns () {
+  kubectl config set-context --current --namespace=$1
+}
+
+export drc="--dry-run=client -oyaml"
+export drs="--dry-run=server -oyaml"
