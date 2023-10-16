@@ -17,6 +17,7 @@ My CKA Notes
 
 Aliases and functions
 
+```
 alias k="kubectl"
 alias v="vim"
 
@@ -26,3 +27,4 @@ function ns () {
 
 export drc="--dry-run=client -oyaml"
 export drs="--dry-run=server -oyaml"
+```
