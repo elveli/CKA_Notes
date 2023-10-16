@@ -1,8 +1,8 @@
 # CKA_Notes
 My CKA Notes
 
-https://medium.com/geekculture/my-jq-cheatsheet-34054df5b650
-https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+* https://medium.com/geekculture/my-jq-cheatsheet-34054df5b650
+* https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 https://github.com/alijahnas/CKA-practice-exercises
 https://github.com/walidshaari/Kubernetes-Certified-Administrator
 https://github.com/StenlyTU/K8s-training-official
