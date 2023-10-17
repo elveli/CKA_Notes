@@ -59,4 +59,11 @@ function ns () {
 
 export drc="--dry-run=client -oyaml"
 export drs="--dry-run=server -oyaml"
+
+alias bb='k run busyboxtemp --image busybox:latest --rm -it --restart=Never --command -- '
+then use it like this
+
+bb nslookup google.com
+bb wget -qO- https://demp:8888
+bb sh
 ```
