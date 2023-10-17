@@ -66,4 +66,8 @@ then use it like this
 bb nslookup google.com
 bb wget -qO- https://demp:8888
 bb sh
+
+Or specify your namespace:
+
+k run busyboxtemp --image busybox:latest --rm -it --restart=Never -n your_ns --command -- sh
 ```
