@@ -21,6 +21,7 @@ My CKA Notes
 * https://www.youtube.com/watch?v=7wRqtBMS6E0
 * https://www.youtube.com/watch?v=8VK9NJ3pObU
 * https://www.youtube.com/watch?v=lR1-XfWeDcc
+* https://stackoverflow.com/questions/40686151/kubernetes-pod-gets-recreated-when-deleted
 
 Key areas to focus
 tbd
