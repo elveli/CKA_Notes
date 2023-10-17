@@ -5,7 +5,7 @@ My CKA Notes
 * https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 * https://github.com/alijahnas/CKA-practice-exercises
 * https://github.com/walidshaari/Kubernetes-Certified-Administrator
-* https://github.com/StenlyTU/K8s-training-official
+* https://github.com/StenlyTU/K8s-training-official (useful)
 * https://github.com/ramitsurana/awesome-kubernetes
 * https://github.com/MohanRamadoss/ckakubernetes-network-policy
 * https://github.com/MohanRamadoss/ckakubernetes-network-policy
