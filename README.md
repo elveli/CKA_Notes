@@ -47,6 +47,7 @@ configmap
 service discovery
 statefulsets
 anti affinity
+daemonSets
 
 
 Tools
