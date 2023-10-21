@@ -38,7 +38,7 @@ My CKA Notes
 * https://opensource.com/article/22/3/visual-map-kubernetes-deployment
 
 Key areas to focus
-
+```
 taints and tolerations
 replication controller
 liveness probe
@@ -48,6 +48,8 @@ service discovery
 statefulsets
 anti affinity
 daemonSets
+replicasets
+```
 
 
 Tools
