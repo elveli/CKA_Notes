@@ -42,8 +42,8 @@ Key areas to focus
 ```
 taints and tolerations
 replication controller
-liveness probe
-readiness probe
+liveness probe: used to determine if a container is still running and responding to requests.
+readiness probe: when a container is ready to start accepting traffic.
 configmap
 service discovery
 statefulsets
@@ -97,5 +97,5 @@ bb sh
 
 Or specify your namespace:
 
-k run busyboxtemp --image busybox:latest --rm -it --restart=Never -n your_ns --command -- sh
+k run busyboxtemp-$$ --image busybox:latest --rm -it --restart=Never -n your_ns --command -- sh
 ```
