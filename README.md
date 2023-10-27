@@ -27,6 +27,8 @@ My CKA Notes
 * https://www.youtube.com/watch?v=lR1-XfWeDcc
 * https://www.youtube.com/playlist?list=PLpbwBK0ptsswtM6ihzE6ABGpA-b0NaHXU (useful)
 
+* https://ahmet.im/blog/kubectl-aliases/index.html (kubectl aliases)
+
 * https://stackoverflow.com/questions/40686151/kubernetes-pod-gets-recreated-when-deleted
 
 * https://opensource.com/downloads/kubernetes-sysadmin?intcmp=7016000000127cYAAQ (A 53 page pdf guide to Kubernetes for SREs and sysadmins. Useful)
