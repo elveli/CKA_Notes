@@ -14,6 +14,7 @@ My CKA Notes
 * https://github.com/walidshaari/Kubernetes-Certified-Administrator
 * https://github.com/StenlyTU/K8s-training-official (useful)
 * https://github.com/ramitsurana/awesome-kubernetes
+* https://github.com/dgkanatsios/CKAD-exercises (useful)
 * https://github.com/MohanRamadoss/ckakubernetes-network-policy
 * https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad#resources-allowed-during-exam
 * https://github.com/ascode-com/wiki/blob/main/certified-kubernetes-administrator/README.md
