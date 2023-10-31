@@ -17,6 +17,8 @@ My CKA Notes
 * https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad#resources-allowed-during-exam
 * https://github.com/ascode-com/wiki/blob/main/certified-kubernetes-administrator/README.md
 * https://editor.networkpolicy.io/?id=Uvdc7jwZhZfY3LpX
+* https://www.reddit.com/r/kubernetes/comments/ssxhsd/cleared_my_cka_exam_with_a_score_of_92_here_are_a/
+* https://www.linkedin.com/pulse/how-score-over-90-certified-kubernetes-application-exam-jackson/
 * https://gist.github.com/JamieMac96/adf9d3c9fe9aa6cd40a20047efabc9ec
   
 * https://www.youtube.com/watch?v=o321_1TwD8s
