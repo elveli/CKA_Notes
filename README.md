@@ -7,6 +7,7 @@ My CKA Notes
 * https://pmvk.medium.com/tips-to-crack-certified-kubernetes-administrator-cka-exam-c949c7a9bea1 (useful)
 * https://medium.com/@san.agarwal10/my-journey-to-pass-ckad-exam-312d24382177 (useful)
 * https://kodekloud.com/blog/kubernetes-sidecar-container/ (useful)
+* https://www.vmantra.in/strategy-how-to-pass-cka-exam-with-less-stress/
 * https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552
 * https://github.com/stretchcloud/cka-lab-practice
 * https://github.com/dgkanatsios/CKAD-exercises
