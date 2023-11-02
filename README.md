@@ -22,6 +22,9 @@ My CKA Notes
 * https://www.reddit.com/r/kubernetes/comments/ssxhsd/cleared_my_cka_exam_with_a_score_of_92_here_are_a/
 * https://www.linkedin.com/pulse/how-score-over-90-certified-kubernetes-application-exam-jackson/
 * https://gist.github.com/JamieMac96/adf9d3c9fe9aa6cd40a20047efabc9ec
+* https://codemyworld.hashnode.dev/kubernetes-monitoring-using-prometheus-and-grafana
+* https://codemyworld.hashnode.dev/cicd-using-jenkins-sonarqube-gradle-nexus-multi-stage-docker-file-and-helm
+* https://codemyworld.hashnode.dev/enforce-automated-k8s-cluster-using-kyverno-policy-generator-and-argocd
   
 * https://www.youtube.com/watch?v=o321_1TwD8s
 * https://www.youtube.com/watch?v=9UqkWcdy140
