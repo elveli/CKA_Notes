@@ -29,6 +29,9 @@ My CKA Notes
 * https://everythingdevops.dev/backup-kubernetes-etcd-data/ (useful)
 * https://dev.to/everythingdevops/taking-backup-of-your-kubernetes-etcd-data-a-step-by-step-guide-4dpa (useful)
 * https://dev.to/everythingdevops/how-to-restart-kubernetes-pods-with-kubectl-4g5h (useful)
+* https://kubebyexample.com/concept/environment-variables
+* https://kubebyexample.com/concept/pods
+* https://github.com/openshift-evangelists/kbe
   
 * https://www.youtube.com/watch?v=o321_1TwD8s
 * https://www.youtube.com/watch?v=9UqkWcdy140
