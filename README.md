@@ -25,6 +25,9 @@ My CKA Notes
 * https://codemyworld.hashnode.dev/kubernetes-monitoring-using-prometheus-and-grafana
 * https://codemyworld.hashnode.dev/cicd-using-jenkins-sonarqube-gradle-nexus-multi-stage-docker-file-and-helm
 * https://codemyworld.hashnode.dev/enforce-automated-k8s-cluster-using-kyverno-policy-generator-and-argocd
+* https://devopscube.com/upgrade-kubernetes-cluster-kubeadm/ (useful)
+* https://everythingdevops.dev/backup-kubernetes-etcd-data/ (useful)
+* https://dev.to/everythingdevops/taking-backup-of-your-kubernetes-etcd-data-a-step-by-step-guide-4dpa (useful)
   
 * https://www.youtube.com/watch?v=o321_1TwD8s
 * https://www.youtube.com/watch?v=9UqkWcdy140
