@@ -52,7 +52,7 @@ My CKA Notes
 
 * https://stackoverflow.com/questions/40686151/kubernetes-pod-gets-recreated-when-deleted
 
-* https://opensource.com/downloads/kubernetes-sysadmin?intcmp=7016000000127cYAAQ (A 53 page pdf guide to Kubernetes for SREs and sysadmins. Useful)
+* https://opensource.com/downloads/kubernetes-sysadmin?intcmp=7016000000127cYAAQ (A 53 page PDF guide to Kubernetes for SREs and sysadmins. Useful)
 * https://opensource.com/article/22/12/kubernetes-articles
 * https://opensource.com/downloads/chaos-engineering-kubernetes
 * https://opensource.com/article/21/6/chaos-mesh-kubernetes
