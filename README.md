@@ -36,6 +36,7 @@ My CKA Notes
 * https://github.com/pradeepatta/Kubernetes-CKA-Exam-Guide/blob/main/kubectl%20commands.txt
 * https://github.com/pradeepatta/Kubernetes-CKA-Exam-Guide/blob/main/Exam-Tips
 * https://www.freecodecamp.org/news/certified-kubernetes-administrator-study-guide-cka/
+* https://devopscube.com/kubernetes-tutorials-beginners/
   
 * https://www.youtube.com/watch?v=o321_1TwD8s
 * https://www.youtube.com/watch?v=9UqkWcdy140
